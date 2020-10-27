@@ -1,3 +1,7 @@
+# Disclaimer
+
+I just want to experimant with this hacked client. I like taking risks, but I don't know if you like it. Better don't use mine modified hacked client, due I am planning to add some... weird functions.
+
 # Wurst Client v7
 
 ## Downloads (for users)
